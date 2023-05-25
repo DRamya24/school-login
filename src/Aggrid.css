@@ -1,0 +1,13 @@
+.ag-theme-alpine {
+    
+        --ag-header-height: 30px;
+        --ag-header-foreground-color: rgb(14, 6, 6);
+        --ag-header-background-color: rgb(10, 223, 238);
+        --ag-header-cell-hover-background-color: rgb(80, 40, 140);
+        --ag-header-cell-moving-background-color: rgb(80, 40, 140);
+
+       
+        --ag-font-size: 17px;
+    --ag-font-family:Times new roman;
+
+}
